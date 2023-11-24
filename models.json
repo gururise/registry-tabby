@@ -103,6 +103,6 @@
     "urls": [
       "https://huggingface.co/TheBloke/deepseek-coder-6.7B-instruct-GGUF/resolve/main/deepseek-coder-6.7b-instruct.Q5_K_M.gguf"
     ],
-    "sha256": "541783983394925380174df22d703187c2a930bc6fe7c58fd65ef9d0cfeda316"
+    "sha256": "0976ee1707fc97b142d7266a9a501893ea6f320e8a8227aa1f04bcab74a5f556"
   }
 ]
